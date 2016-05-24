@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1000257176006-vpmebohgk8eagd278dds73sa6kri9r8k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1000257176006-vpmebohgk8eagd278dds73sa6kri9r8k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBA7ptLV8U1knNnn47kqempRHtSX3c3O1w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1000257176006</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.eneff.app.friendlychat</string>
+	<key>PROJECT_ID</key>
+	<string>friendlychat-1316</string>
+	<key>STORAGE_BUCKET</key>
+	<string>friendlychat-1316.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1000257176006:ios:53262d24b42be5a1</string>
+	<key>DATABASE_URL</key>
+	<string>https://friendlychat-1316.firebaseio.com</string>
+</dict>
+</plist>
